@@ -58,7 +58,7 @@ public class FileClient {
     }
 
     public static void main(String[] args) {
-        FileClient fileClient = new FileClient("localhost", 1988, "seowoo.jpg");
+        FileClient fileClient = new FileClient("localhost", 1988, "testfile.jpg");
     }
 
 }
